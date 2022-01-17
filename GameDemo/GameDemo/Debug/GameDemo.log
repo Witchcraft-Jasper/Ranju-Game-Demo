@@ -1,0 +1,3 @@
+﻿  GameDemo.cpp
+C:\Users\Witchcraft\source\repos\GameDemo\GameDemo\mean.h(15,2): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+  GameDemo.vcxproj -> C:\Users\Witchcraft\source\repos\GameDemo\Debug\GameDemo.exe

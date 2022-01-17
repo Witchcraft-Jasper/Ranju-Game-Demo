@@ -1,0 +1,7 @@
+aaa 9
+bbb 18
+ccc 10
+Chris 100
+sb 30
+temp 16
+Tom 9
